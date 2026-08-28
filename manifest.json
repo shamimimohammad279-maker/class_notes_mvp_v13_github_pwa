@@ -1,0 +1,16 @@
+{
+  "name": "Class Notes",
+  "short_name": "Class Notes",
+  "description": "مرکز مدیریت و آماده‌سازی یادداشت‌های کلاس",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "fa",
+  "background_color": "#08121c",
+  "theme_color": "#172033",
+  "icons": [
+    {"src":"./icons/logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
